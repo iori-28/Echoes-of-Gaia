@@ -1,0 +1,3 @@
+repository "MyFirstGameGweh/GaiaGame@18968476221720@cloud"
+  path "/"
+    smartbranch "/main"
